@@ -1,7 +1,7 @@
 # Tarefas-Automatizadas-Lambda-Function-S3
 Este repositório serve como material de apoio para estudos e futuras implementações.
 
-# Conceito básico
+# Conceitos
 
 AWS Lambda: serviço de computação serverless que executa código em resposta a eventos. Não precisa gerenciar servidores, você só paga pelo tempo de execução.
 
